@@ -28,5 +28,8 @@ int main(){
 
     }
     while(flag==true);
+
+        cout<<"I am Muhammad Haris"<<endl;
+
     return 0;
 }
