@@ -28,5 +28,6 @@ int main(){
 
     }
     while(flag==true);
+    cout<<"Hello"<<endl;
     return 0;
 }
